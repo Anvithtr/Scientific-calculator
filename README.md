@@ -2,7 +2,8 @@
 
 A web-based scientific calculator built using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations as well as advanced mathematical functions such as trigonometry, logarithms, and more.
 
-![calculator]("C:\Users\anvit\OneDrive\Desktop\personal\calculator.png")
+
+![calculator](https://github.com/user-attachments/assets/ff3b5934-8660-44f9-b6ad-1efb0bc5f6a8)
 
 ## Features
 
